@@ -30,3 +30,7 @@ git status
 ```fix
 git commit -m "message"
 ```
+
+* _Для обьединения команд "git add ." и "git commit -m "message" можно использовать "git commit -am "message"_
+
+
